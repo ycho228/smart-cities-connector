@@ -1,0 +1,12 @@
+{
+  "name": "Homework 1",
+  "endpoint": "cal/ce88/fa17/hw01",
+  "src": [
+    "hw01.ipynb"
+  ],
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
